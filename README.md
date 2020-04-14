@@ -29,3 +29,5 @@ Cloud Firestore: allows you to combine filtering and sorting and choose multiple
 Realtime Database: offers a single region solution with limited zonal availability.
 
 Cloud Firestore: supports multiple data centers in different regions, distributing your data across multiple servers automatically. 
+
+![image](https://user-images.githubusercontent.com/39657409/79266164-c6a2ea00-7eb4-11ea-8567-ca3b49a14a35.png)
