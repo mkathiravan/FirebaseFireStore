@@ -31,3 +31,6 @@ Realtime Database: offers a single region solution with limited zonal availabili
 Cloud Firestore: supports multiple data centers in different regions, distributing your data across multiple servers automatically. 
 
 ![image](https://user-images.githubusercontent.com/39657409/79266164-c6a2ea00-7eb4-11ea-8567-ca3b49a14a35.png)
+
+![image](https://user-images.githubusercontent.com/39657409/79337290-d6690f80-7f42-11ea-9a88-3c395b8720d4.png)
+
